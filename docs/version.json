@@ -1,0 +1,18 @@
+{
+  "appName": "Portal Sam",
+  "brand": "SAMUC CREATOR",
+  "packageName": "com.aistudio.portalsam.xkqvmz",
+  "versionName": "1.0.0",
+  "versionCode": 1,
+  "minRequiredVersion": "1.0.0",
+  "isMandatory": false,
+  "status": "PUBLISHED",
+  "title": "Portal Sam 2.0 — SAMUC CREATOR",
+  "description": "Ecossistema tecnológico completo com IA, Sam Game Studio 2D/3D, GDevelop JSON, Sam Editor IA (MP4), Enciclopédia de Dinossauros e Comunidade.",
+  "highlights": "Sam Game Studio 2D/3D, Editor de Vídeos MP4 no dispositivo, Tutoriais Interativos Sam IA e Enciclopédia Pré-Histórica Brasileira.",
+  "addedFeatures": "Página de Publicação, Sistema Duplo de Atualizações, SAM ADMIN e Compartilhamento direto de APK.",
+  "improvements": "Interface gamer futurista responsiva para celulares e tablets.",
+  "fixes": "Migração segura de dados locais e autenticação PBKDF2.",
+  "downloadUrl": "./PortalSam-v1.0.0.apk",
+  "storeUrl": "./index.html"
+}

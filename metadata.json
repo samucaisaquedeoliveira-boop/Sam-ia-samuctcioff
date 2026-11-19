@@ -1,0 +1,6 @@
+{
+  "name": "Portal Sam",
+  "description": "Ecossistema tecnológico completo com IA (SAM IA & SEELE AI), Sam Game Studio 2D/3D, GDevelop, Sam Editor IA, modelos 3D, enciclopédia de dinossauros, comunidade e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
